@@ -1,3 +1,6 @@
+# RASPi-GPIO
+Simple Raspberry Pi GPIO library in python
+
 | No. | Function                                    | Action                                                                                                                                                                                                         |
 |-----|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | exportGPIO(pin_number, direction)           | Used to init GPIO pin, and set its direction of working<br /><br /><br />pin_number - specify GPIO pin affected<br />direction - "out"/"in" set direction of communication                                     |
